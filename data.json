@@ -1,0 +1,46 @@
+{
+  "items":[
+    {
+      "name":"Idly"
+    },
+    {
+      "name":"Dosa"
+    },
+    {
+      "name":"Poori"
+    }
+  ],
+  "items1":[
+    {
+      "name":"Full meals"
+    },
+    {
+      "name":"Half meals"
+    },
+    {
+      "name":"Lemon rice"
+    }
+  ],
+  "items2":[
+    {
+      "name":"Noodles"
+    },
+    {
+      "name":"Veg-rice"
+    },
+    {
+      "name":"Pani puri"
+    }
+  ],
+  "items3":[
+    {
+      "name":"Rooti"
+    },
+    {
+      "name":"curd rice"
+    },
+    {
+      "name":"Chapathi"
+    }
+  ]
+  }
